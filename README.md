@@ -1,3 +1,6 @@
+## Batch script for bypassing windows defender 
+https://medium.com/@malikhabibkhan181/bypass-windows-defender-with-a-batch-script-habib-ullah-56fd1cbf7870
+
 # batch_scripts
 batch scripts for beginners
 # 100-Day BAT Scripting Challenge (Malware Development & Analysis)
