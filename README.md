@@ -7,12 +7,12 @@ batch scripts for beginners
 
 ### Week 1: Basic BAT Scripting for Malware Behavior
 - **Day 1**: Learn basic echo commands and comments, but with a twist of creating a decoy message script.
-- **Day 2**: Variables and environmental manipulation in BAT scripts, such as changing paths or user settings.
-- **Day 3**: Basic file operations—creating, deleting, or hiding files to simulate malicious behavior.
-- **Day 4**: Using `if` statements to simulate malware conditions (e.g., if file exists, execute a payload).
-- **Day 5**: File obfuscation techniques like renaming critical files.
-- **Day 6**: Basic automation to simulate system changes (e.g., disabling system tools).
-- **Day 7**: Dropping and executing files via batch scripts.
+- **Day 1**: Variables and environmental manipulation in BAT scripts, such as changing paths or user settings.
+- **Day 1**: Basic file operations—creating, deleting, or hiding files to simulate malicious behavior.
+- **Day 2**: Using `if` statements to simulate malware conditions (e.g., if file exists, execute a payload).
+- **Day 3**: File obfuscation techniques like renaming critical files.
+- **Day 4**: Basic automation to simulate system changes (e.g., disabling system tools).
+- **Day 5**: Dropping and executing files via batch scripts.
 
 ### Week 2: Working with Persistence Mechanisms
 - **Day 8**: Writing a script to create persistence by adding to the startup folder or registry.
