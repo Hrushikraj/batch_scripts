@@ -13,7 +13,7 @@ batch scripts for beginners
 - **Day 3**: File obfuscation techniques like renaming critical files.
 - **Day 4**: Basic automation to simulate system changes (e.g., disabling system tools).
 - **Day 5**: Dropping and executing files via batch scripts.
-    Clik Here to Read Instructions of Day05 Batch Scripts
+    > [Clik Here to Read Instructions of Day05 Batch Scripts](https://github.com/Hrushikraj/batch_scripts/blob/main/Day05/README.md)
 
 ### Week 2: Working with Persistence Mechanisms
 - **Day 8**: Writing a script to create persistence by adding to the startup folder or registry.
