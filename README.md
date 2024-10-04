@@ -1,6 +1,14 @@
 ## Batch script for bypassing windows defender 
 https://medium.com/@malikhabibkhan181/bypass-windows-defender-with-a-batch-script-habib-ullah-56fd1cbf7870
 
+### Common Windows System Variables
+
+- **`%USERPROFILE%`**: Points to the current user's home directory (e.g., `C:\Users\xyz abc`).
+- **`%APPDATA%`**: Points to the Application Data folder (e.g., `C:\Users\xyz abc\AppData\Roaming`).
+- **`%ProgramFiles%`**: Points to the Program Files folder (e.g., `C:\Program Files`).
+- **`%SystemRoot%`**: Points to the Windows system folder (e.g., `C:\Windows`).
+
+
 # batch_scripts
 batch scripts for beginners
 # 100-Day BAT Scripting Challenge (Malware Development & Analysis)
