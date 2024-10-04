@@ -24,7 +24,7 @@ batch scripts for beginners
     > [Clik Here to Read Instructions of Day05 Batch Scripts](https://github.com/Hrushikraj/batch_scripts/blob/main/Day05/README.md)
 
 ### Week 2: Working with Persistence Mechanisms
-- **Day 8**: Writing a script to create persistence by adding to the startup folder or registry.
+- **Day 6**: [Writing a script to create persistence by adding to the startup folder or registry.](https://github.com/Hrushikraj/batch_scripts/blob/main/Day06/)
 - **Day 9**: Simulating persistence through scheduled tasks.
 - **Day 10**: Modify system policies using scripts (e.g., disabling Task Manager).
 - **Day 11**: Writing scripts that modify system boot configurations.
