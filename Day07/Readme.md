@@ -11,4 +11,5 @@ The `schtasks` command is used in batch scripts to create, edit, and remove sche
 - **`/rl highest`**: Ensures the task runs with the highest privileges (administrator rights).
 - **`/f`**: Forces the creation of the task without confirmation if a task with the same name already exists.
 - **`/delay`**: Sets the delay time after the task trigger event (e.g., logon).
-- **Administration Rights Required**
+> [!IMPORTANT]
+> **It's better to run the script with Administrator rights**
