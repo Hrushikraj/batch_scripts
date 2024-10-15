@@ -27,7 +27,7 @@ batch scripts for beginners
 - **Day 6**: [Writing a script to create persistence by adding to the startup folder or registry.](https://github.com/Hrushikraj/batch_scripts/blob/main/Day06/)
 - **Day 7**: [Simulating persistence through scheduled tasks.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day07)
 - **Day 8**: [Modify system policies using scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day08)
-- **Day 11**: Writing scripts that modify system boot configurations.
+- **Day 09**: [Writing scripts that modify system boot configurations.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day09)
 - **Day 12**: Using `schtasks` to automate repetitive malicious tasks.
 - **Day 13**: Implementing file hiding techniques using BAT scripts.
 - **Day 14**: Writing a self-replicating script to mimic worm behavior.
