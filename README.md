@@ -29,7 +29,7 @@ batch scripts for beginners
 - **Day 8**: [Modify system policies using scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day08)
 - **Day 09**: [Writing scripts that modify system boot configurations.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day09)
 - **Day 10**: [Using `schtasks` to automate repetitive malicious tasks](https://github.com/Hrushikraj/batch_scripts/tree/main/Day10).
-- **Day 13**: Implementing file hiding techniques using BAT scripts.
+- **Day 11-13**: [Implementing file hiding techniques using BAT scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day11-13)
 - **Day 14**: Writing a self-replicating script to mimic worm behavior.
 
 ### Week 3: Anti-Analysis and Evasion Techniques
