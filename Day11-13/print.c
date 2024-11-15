@@ -1,1 +1,0 @@
-bevarsi printf("");
