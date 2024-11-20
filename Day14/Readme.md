@@ -28,5 +28,6 @@ net session 2>&1
 if %errorlevel% neq 0 (
  echo Run the script with administrator mode
  pause
- exit /b )```
+ exit /b )
+```
 
