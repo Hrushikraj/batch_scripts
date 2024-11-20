@@ -13,6 +13,9 @@ The following Batch script detects whether it's running in a VirtualBox environm
 3. Outputs:
    * If a VirtualBox environment is detected, it outputs a corresponding message.
    * If no matches are found, it assumes the script is running on a physical machine or an unrecognized virtual environment.
+4. Method 3: Environment-Specific Artifacts
+   * Uses wmic to detect virtualization-related manufacturers (e.g., VMware, VirtualBox, QEMU).
+   * If such artifacts are present, the script exits.
 
 ## :loudspeaker:Adding check for Administrator Rights (Optional)
 ```bat
