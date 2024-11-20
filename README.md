@@ -33,7 +33,7 @@ batch scripts for beginners
 - **Day 14**: [Writing a self-replicating script to mimic worm behavior.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day14)
 
 ### Week 3: Anti-Analysis and Evasion Techniques
-- **Day 15**: Detecting if the script is running in a virtual environment (e.g., VirtualBox).
+- **Day 15**: [Detecting if the script is running in a virtual environment (e.g., VirtualBox).](https://github.com/Hrushikraj/batch_scripts/tree/main/Day14)
 - **Day 16**: Implementing anti-debugging techniques in BAT scripts.
 - **Day 17**: Evading detection by hiding script operations in the background.
 - **Day 18**: Bypassing User Account Control (UAC) in Windows.
