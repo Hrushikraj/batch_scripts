@@ -34,7 +34,7 @@ batch scripts for beginners
 
 ### Week 3: Anti-Analysis and Evasion Techniques
 - **Day 15**: [Detecting if the script is running in a virtual environment (e.g., VirtualBox).](https://github.com/Hrushikraj/batch_scripts/tree/main/Day14)
-- **Day 16**: Implementing anti-debugging techniques in BAT scripts.
+- **Day 16**: [Implementing anti-debugging techniques in BAT scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day16)
 - **Day 17**: Evading detection by hiding script operations in the background.
 - **Day 18**: Bypassing User Account Control (UAC) in Windows.
 - **Day 19**: Obfuscating BAT scripts using variable manipulation and encoding.
