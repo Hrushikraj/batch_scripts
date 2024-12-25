@@ -38,7 +38,7 @@ batch scripts for beginners
 - **Day 17**: [Evading detection by hiding script operations in the background.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day17)
 - **Day 18**: Bypassing User Account Control (UAC) in Windows.
 - **Day 19**: Obfuscating BAT scripts using variable manipulation and encoding.
-- **Day 20**: Clearing system logs using BAT scripts.
+- **Day 20**: [Clearing system logs using BAT scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day20)
 - **Day 21**: Disabling Windows Defender or firewall temporarily using BAT scripts.
 
 ### Week 4: Payload Development
