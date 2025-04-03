@@ -39,7 +39,7 @@ batch scripts for beginners
 - **Day 18**: Bypassing User Account Control (UAC) in Windows.
 - **Day 19**: Obfuscating BAT scripts using variable manipulation and encoding.
 - **Day 20**: [Clearing system logs using BAT scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day20)
-- **Day 21**: Disabling Windows Defender or firewall temporarily using BAT scripts.
+- **Day 21**: [Disabling Windows Defender or firewall temporarily using BAT scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day21)
 
 ### Week 4: Payload Development
 - **Day 22**: Writing a script that simulates a ransomware attack (e.g., renaming files with a fake extension).
