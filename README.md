@@ -19,7 +19,7 @@ batch scripts for beginners
 - **Day 1**: Basic file operations—creating, deleting, or hiding files to simulate malicious behavior.
 - **Day 2**: Using `if` statements to simulate malware conditions (e.g., if file exists, execute a payload).
 - **Day 3**: File obfuscation techniques like renaming critical files.
-- **Day 4**: Basic automation to simulate system changes (e.g., disabling system tools).
+- **Day 4**: Basic automation to simulate system changes (e.g., disabling system tools)..
 - **Day 5**: Dropping and executing files via batch scripts.
     > [Clik Here to Read Instructions of Day05 Batch Scripts](https://github.com/Hrushikraj/batch_scripts/blob/main/Day05/README.md)
 
