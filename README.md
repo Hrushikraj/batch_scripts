@@ -40,6 +40,7 @@ batch scripts for beginners
 - **Day 19**: Obfuscating BAT scripts using variable manipulation and encoding.
 - **Day 20**: [Clearing system logs using BAT scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day20)
 - **Day 21**: [Disabling Windows Defender or firewall temporarily using BAT scripts.](https://github.com/Hrushikraj/batch_scripts/tree/main/Day21)
+<!--
 
 ### Week 4: Payload Development
 - **Day 22**: Writing a script that simulates a ransomware attack (e.g., renaming files with a fake extension).
@@ -95,4 +96,5 @@ batch scripts for beginners
 - **Day 92-98**: Simulate a real-world attack scenario by combining various scripts into a larger, multi-stage attack simulation.
 - **Day 99**: Polish and optimize your malware scripts for stealth, efficiency, and persistence.
 - **Day 100**: Final project—create a malware that can bypass basic anti-virus and sandbox environments, but keep it in an isolated lab environment.
+-->
 
